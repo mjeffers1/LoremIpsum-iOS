@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '47E6BE98B83D765A0198D420'
+               BlueprintIdentifier = 'F0CF90A902E5A15DF7876635'
                BlueprintName = 'LoremIpsum-iOS'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'LoremIpsum_iOS.framework'>

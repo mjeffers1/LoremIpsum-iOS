@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LoremIpsum-iOS: d0239148524782204d79fda6ace40f5aa4cc9ab2
+  LoremIpsum-iOS: 5fff8ef2dd55ee5edb8ca6dc2e04350be0a1a5d7
 
 COCOAPODS: 0.39.0

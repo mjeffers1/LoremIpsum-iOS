@@ -1,17 +1,18 @@
 {
   "name": "LoremIpsum-iOS",
   "version": "0.1.0",
-  "summary": "A short description of LoremIpsum-iOS.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/LoremIpsum-iOS",
+  "summary": "Lorem Ipsum generator for iOS.",
+  "description": "Lorem Ipsum is a lightweight generator for iOS.",
+  "homepage": "https://github.com/mjeffers1/LoremIpsum-iOS",
   "license": "MIT",
   "authors": {
     "Martin Jeffers": "martin.jeffers1@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/LoremIpsum-iOS.git",
+    "git": "https://github.com/mjeffers1/LoremIpsum-iOS.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/MartinJeffers1",
   "platforms": {
     "ios": "8.0"
   },
