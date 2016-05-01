@@ -1,0 +1,14 @@
+PODS:
+  - LoremIpsum-iOS (0.1.0)
+
+DEPENDENCIES:
+  - LoremIpsum-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  LoremIpsum-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoremIpsum-iOS: d0239148524782204d79fda6ace40f5aa4cc9ab2
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,19 @@
+{
+  "name": "LoremIpsum-iOS",
+  "version": "0.1.0",
+  "summary": "A short description of LoremIpsum-iOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/LoremIpsum-iOS",
+  "license": "MIT",
+  "authors": {
+    "Martin Jeffers": "martin.jeffers1@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/LoremIpsum-iOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LoremIpsum-iOS/Classes/**/*"
+}
