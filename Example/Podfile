@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LoremIpsum-iOS_Example', :exclusive => true do
+  pod 'LoremIpsum-iOS', :path => '../'
+end
+
+target 'LoremIpsum-iOS_Tests', :exclusive => true do
+  pod 'LoremIpsum-iOS', :path => '../'
+
+  
+end
