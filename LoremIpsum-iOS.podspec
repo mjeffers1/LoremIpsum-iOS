@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint LoremIpsum.podspec' to ensure this is a
+# Be sure to run `pod lib lint LoremIpsum-iOS.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -23,6 +23,7 @@ s.source           = { :git => "https://github.com/mjeffers1/LoremIpsum-iOS.git"
 s.social_media_url = 'https://twitter.com/MartinJeffers1'
 
 s.ios.deployment_target = '8.0'
+s.requires_arc  = true
 
 s.source_files = 'LoremIpsum-iOS/Classes/**/*'
 
